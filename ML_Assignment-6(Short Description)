@@ -1,0 +1,15 @@
+Student Info
+
+Student Name : Saripalli Aditya Sai Varma
+
+Student ID : 700742767
+
+Gender : Male
+
+University of Central Missouri
+
+Email : AXS2727670@ucmo.edu
+
+Short Description:
+
+Machine Learning Assignment 6 is done completely using Jupiter Notebook. In this assignment, questions are based on the Hierarchical clustering. We performed standardization and normalization to improve clustering. Principal component analysis on the data sets by importing them using pandas library. When we perform PCA on a data set, we will get our results by reducing the dimesionality of data into two features. Reducing dimensionality refers PCA ignores the duplicate features of other features and results the features with maximum variance between them. After performing PCA we trained Aggolomerative clustering technique on data set by taking no of cluster as 2, 3, 4, and 5. we represented sillhouette scores of algorithm over no of clusters in a bar graph.
